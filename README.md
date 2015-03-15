@@ -33,8 +33,9 @@ We suggest you run through this repo in the following order:
 * log4cxx (0.10.0)
 * jansson (2.2.1 min)
 * cppunit (1.12.1 min)
-* proj4 (4.8.0 min)
-* gdal (1.10 min)
+* GIS libraries
+ * proj4 (4.8.0 min)
+ * gdal (1.10 min)
 
 ### Build
 
